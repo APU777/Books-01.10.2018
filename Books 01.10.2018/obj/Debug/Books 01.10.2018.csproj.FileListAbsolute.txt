@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\bin\Debug\Books 01.10.2018.exe.config
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\bin\Debug\Books 01.10.2018.exe
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\bin\Debug\Books 01.10.2018.pdb
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\Books 01.10.2018.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\Books 01.10.2018_MarkupCompile.cache
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\Books 01.10.2018_MarkupCompile.lref
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\Books 01.10.2018.g.resources
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\Books_01._10._2018.Properties.Resources.resources
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\Books 01.10.2018.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\Books 01.10.2018.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\Books 01.10.2018.exe
+C:\Users\User\Desktop\Books 01.10.2018\Books 01.10.2018\obj\Debug\Books 01.10.2018.pdb
